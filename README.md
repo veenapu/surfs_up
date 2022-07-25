@@ -40,6 +40,13 @@ This assignment consists of two technical analysis deliverables and a written re
 ### Deliverable 3: A written report for the statistical analysis (README.md)
 -  A high-level summary of the results and two additional queries included in the README that would perform to gather more weather data for June and December.
 
+Even though temperatures varu in Oahu, the average temperatures only vary by 4 degrees.  Hence, Oahu is ideal for surfing and consuming ice cream consumption, hence a surf and ice cream shop business can be set up.
+
+In order for this business to be successful, addition queries that can be run to strengthen this further is:
+1. Summary statistics for each month by station can be run, which helps narrow down, where in Oahu, is the best location to set up shop.
+
+2. Other factors can be examines such as wind conditions, wave patterns, location with heavy foot traffic, precipitation. 
+
 
 
 
